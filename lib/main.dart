@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           title: const Text('Material App Bar'),
         ),
-        body: const Text('Testing Text'),
+        body: const Text('Page Test'),
         ),
       
     );
